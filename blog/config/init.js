@@ -1,0 +1,9 @@
+module.exports={
+	base_data:{
+		host:"47.93.206.66",
+		port:"3306",
+		user:"root",
+		database:"blog_sql",
+		password:"1q2w3e"
+	}
+}
